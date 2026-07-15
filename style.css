@@ -120,6 +120,10 @@ ul li a:hover {
         height: 120px;
     }
 
+    .navbox{
+        display: none;
+    }
+
     
     .morebox{
         display: block;
