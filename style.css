@@ -638,6 +638,10 @@ ul li a:hover {
         grid-template-columns: 1fr;
         margin-top: 80px;
     }
+
+    .name{
+        font-size: 18px;
+    }
     .photo{
         position: relative;
     }
