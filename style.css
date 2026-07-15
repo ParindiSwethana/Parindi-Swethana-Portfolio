@@ -658,7 +658,7 @@ ul li a:hover {
 
     #certificates .title{
         text-align: center;
-        margin-right: 0px;
+        margin-left: 0px;
     }
     .projectbox {grid-template-columns: 1fr;}
     .contactbox{grid-template-columns: 1fr;  }
