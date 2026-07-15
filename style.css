@@ -650,9 +650,10 @@ ul li a:hover {
         height: 30%;
         margin-left: 10%;
     }
-    #about{
-        display: grid;
-        grid-template-columns: 1fr;
+  
+    #about p{
+        margin-left: 10%;
+        margin-right: 10%;
     }
     .projectbox {grid-template-columns: 1fr;}
     .contactbox{grid-template-columns: 1fr;  }
