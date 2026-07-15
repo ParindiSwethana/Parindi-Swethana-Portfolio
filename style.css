@@ -637,7 +637,6 @@ ul li a:hover {
     .intro {
         grid-template-columns: 1fr;
         margin-top: 80px;
-        position: fixed;
     }
 
     .name{
